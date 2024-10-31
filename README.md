@@ -21,13 +21,13 @@ Product Design: Conceptualization of the BidWise platform, including user flows 
 AI Model Development: Basic framework for valuation and risk analysis models.
 Documentation: Project milestones, challenges, and next steps toward potentially establishing BidWise as a business.
 
-#Future Steps
+# Future Steps
 
 Conduct further market testing and user validation.
 Refine AI models to improve accuracy and reliability.
 Explore pathways to formally launch BidWise as a real-world solution.
 
-#About the Team
+# About the Team
 
 BidWise was developed by a bunch of coolheads, a team of students passionate about using AI and tech to innovate in financial services.
 
