@@ -24,12 +24,29 @@ BidWise is a school project aimed at creating an AI-powered digital marketplace 
 ## Future Steps
 
 - Conduct further market testing and user validation.
-- Refine AI models to improve accuracy and reliability.
+- Build more detailed framework and development map for AI models to use to gain competitive advantage. Play with the minimum viable AI models.
 - Explore pathways to formally launch BidWise as a real-world solution.
 
 ## About the Team
 
-BidWise was developed by a bunch of coolheads, a team of students passionate about using AI and tech to innovate in financial services.
+BidWise needs to build a founding team.
+
+Operations and Strategy Lead
+•	Responsibilities: Defining and managing operational workflows, strategic direction, and initial market positioning for BidWise. This role is focused on setting up smooth processes, coordinating between teams, and establishing clear goals and metrics for the company’s success.
+•	Suggested Person: [Jarmo Tahvanainen]
+
+Product Development Lead
+•	Responsibilities: Overseeing the design and development of the BidWise platform, ensuring a user-friendly and intuitive interface for both sellers and investors. This role involves working closely with the technical team to define features, prioritize tasks, and continuously improve the platform.
+•	Suggested Person: [name]
+
+Technical and Data Lead
+•	Responsibilities: Developing and maintaining BidWise’s core AI models for valuation, risk assessment, and recommendations. This role involves selecting and refining AI algorithms, managing data pipelines, and ensuring the platform’s backend is robust and scalable.
+•	Suggested Person: [name]
+
+Business Development and Partnerships Lead
+•	Responsibilities: Building relationships with potential clients, investors, and strategic partners, and driving user acquisition. This role is essential for promoting BidWise to key stakeholders, developing partnerships, and understanding client needs for ongoing growth.
+•	Suggested Person: [name]
+
 
 ## Disclaimer
 
