@@ -47,6 +47,9 @@ Business Development and Partnerships Lead
 - Responsibilities: Building relationships with potential clients, investors, and strategic partners, and driving user acquisition. This role is essential for promoting BidWise to key stakeholders, developing partnerships, and understanding client needs for ongoing growth.
 - Suggested Person: [name]
 
+## Business Model Canvas
+
+![BMC](BMC_0.1.png)
 
 ## Disclaimer
 
