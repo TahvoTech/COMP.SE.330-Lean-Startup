@@ -1,5 +1,7 @@
 # BidWise: AI-Powered Marketplace for Non-Performing Loans (NPLs)
 
+![bidwise_logo](logo_01.png)
+
 ## Project Overview
 BidWise is a school project aimed at creating an AI-powered digital marketplace that simplifies the trading of non-performing loans (NPLs). This platform concept seeks to help small to mid-sized businesses quickly sell their unpaid debts and offers investors easy access to valuable NPL portfolios. Through AI-driven insights, BidWise is designed to deliver fair valuations, reduce transaction times, and streamline the debt trading process.
 
