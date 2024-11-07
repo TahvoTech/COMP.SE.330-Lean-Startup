@@ -147,7 +147,7 @@ Backup of *.doc*
 *.svgz
 
 # Portable Document Format
-*.pdf
+# *.pdf
 
 # X BitMap
 *.xbm
